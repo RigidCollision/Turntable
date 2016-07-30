@@ -1,5 +1,7 @@
 Accelstepper.zip - This is the latest accelstepper library with modifications for setBacklash(). You will find all the additional code is in clearly defined blocks starting with the comment 'start backlash' and ending with the comment 'end backlash'. If a new library is released simply search this library for the backlash code and re-insert it into the new library at the correct points.
 
+DCC_Fully_Working_with_Parking_Sensor - basic motor code for integrating with my board. Allows you to specify four turntable stopping points.
+
 DCC_Decoder_master - required DCC decoding library, re-published here for completenes.
 
 speed_vibration_harmonics_test - a basic stepper test to systematically go through a range of speeds to test your motor and assist finding at which speeds it works with the least harmonics/vibration.
